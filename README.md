@@ -67,7 +67,7 @@ Historical financial figures are sourced from Microsoft's Form 10-K filings for 
 
 ## Files
 
-* `Microsoft_3_Statement_Model_FY24_25_FINAL.xlsx` — the complete Excel workbook containing the three-statement model, financial ratios, and DCF valuation.
+* `Microsoft_3_Statement_Model_FY24_25_FINAL-3.xlsx` — the complete Excel workbook containing the three-statement model, financial ratios, and DCF valuation.
 * `Microsoft Financial Performance Analysis & 3-Statement Model (FY2024–FY2025).pdf` — supporting financial performance analysis covering Microsoft's FY2024–FY2025 results.
 
 ## Project Purpose
